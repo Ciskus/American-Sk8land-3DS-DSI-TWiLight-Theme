@@ -7,6 +7,3 @@ How to Install:
 6. Set User Interface to Nintendo 3DS.
 7. Set DSi/3DS UI Music to Custom Theme.
 8. Close the settings menu and you're good to go!
-
-Preview:
-![preview picture](/relative/path/to/Preview.jpg?raw=true "preview picture")
